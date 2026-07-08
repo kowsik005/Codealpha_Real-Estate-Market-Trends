@@ -1,0 +1,1 @@
+Real Estate Portfolio Dashboard developed using Power BI to analyze property sales, availability, revenue, demand scores, property types, city-wise pricing, and construction trends. Features interactive KPIs, filters, charts, and data visualizations to support real estate market analysis and business decision-making
